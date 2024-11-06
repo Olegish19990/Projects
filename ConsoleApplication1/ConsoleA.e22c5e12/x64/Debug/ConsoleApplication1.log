@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\MyPROJERCT\ConsoleApplication1\ConsoleApplication1.cpp(60,40): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\MyPROJERCT\ConsoleApplication1\ConsoleApplication1.cpp(68,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\MyPROJERCT\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

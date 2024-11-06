@@ -1,0 +1,16 @@
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\FileManager.exe
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\FileManager.deps.json
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\FileManager.runtimeconfig.json
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\FileManager.dll
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\FileManager.pdb
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.Manager.resources
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.csproj.GenerateResource.cache
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.AssemblyInfoInputs.cache
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.AssemblyInfo.cs
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.csproj.CoreCompileInputs.cache
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.dll
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\refint\FileManager.dll
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.pdb
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.genruntimeconfig.cache
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\ref\FileManager.dll
