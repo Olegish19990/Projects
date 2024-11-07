@@ -14,3 +14,4 @@ D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\refint\FileManager.dll
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.pdb
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.genruntimeconfig.cache
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\ref\FileManager.dll
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.sourcelink.json

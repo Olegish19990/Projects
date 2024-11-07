@@ -37,9 +37,9 @@
             // 
             // treeView1
             // 
-            treeView1.Location = new Point(12, 32);
+            treeView1.Location = new Point(12, 3);
             treeView1.Name = "treeView1";
-            treeView1.Size = new Size(321, 979);
+            treeView1.Size = new Size(321, 1008);
             treeView1.TabIndex = 0;
             treeView1.BeforeExpand += treeView1_BeforeExpand;
             treeView1.AfterSelect += treeView1_AfterSelect;
@@ -54,25 +54,25 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(12, 3);
+            textBox1.Location = new Point(368, 3);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(1213, 23);
+            textBox1.Size = new Size(882, 23);
             textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(1231, 3);
+            textBox2.Location = new Point(1256, 3);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(201, 23);
+            textBox2.Size = new Size(198, 23);
             textBox2.TabIndex = 3;
             // 
             // button1
             // 
-            button1.Location = new Point(1438, 3);
+            button1.Location = new Point(1460, 3);
             button1.Name = "button1";
             button1.Size = new Size(97, 23);
             button1.TabIndex = 4;
-            button1.Text = "button1";
+            button1.Text = "Find";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -80,7 +80,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1583, 1073);
+            ClientSize = new Size(1867, 1073);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);

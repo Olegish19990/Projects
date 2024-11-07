@@ -23,6 +23,8 @@ namespace FileManager
             listView.Columns.Add("Size (KB)", 100);      
             listView.Columns.Add("Extension", 100);     
             listView.Columns.Add("Last Modified", 150);
+            listView.Columns.Add("Full path",400);
+
         }
 
         public void DisplayFiles(IEnumerable<FileInfo> files)
@@ -34,6 +36,7 @@ namespace FileManager
                 item.SubItems.Add((file.Length / 1024).ToString());
                 item.SubItems.Add(file.Extension);
                 item.SubItems.Add(file.LastWriteTime.ToString());
+                item.SubItems.Add(file.FullName);
                 listView.Items.Add(item);
             }
         }

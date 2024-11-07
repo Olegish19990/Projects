@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FileManager
 {
-    public static class NodeIsAccess 
+    public static class DirectoryIsAcces 
     {
         public static bool CheckAccess(DirectoryInfo dir)
         {

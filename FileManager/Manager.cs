@@ -38,7 +38,7 @@ namespace FileManager
             listViewManager = new ListViewManager(listView1);
             //nodeIsAccess = new NodeIsAccess();
             scaner = new Scaner();
-            
+     
         }
 
 
@@ -49,7 +49,8 @@ namespace FileManager
         {
             if (e.Node.Text != "Root")
             {
-                if (NodeIsAccess.CheckAccess((DirectoryInfo)e.Node.Tag))
+               
+                if (DirectoryIsAcces.CheckAccess((DirectoryInfo)e.Node.Tag))
                 {
                     treeNodeManager.NodeOpen(e.Node);
                 }
@@ -74,11 +75,13 @@ namespace FileManager
             if (e.Node.Text != "Root")
             {
 
-                if (NodeIsAccess.CheckAccess((DirectoryInfo)e.Node.Tag))
+                if (DirectoryIsAcces.CheckAccess((DirectoryInfo)e.Node.Tag))
                 {
                     currentDir = (DirectoryInfo)e.Node.Tag;
                     var dir = (DirectoryInfo)e.Node.Tag;
                     listViewManager.DisplayFiles(dir.GetFiles());
+                    textBox1.Text = currentDir.FullName;
+                    //textBox1.Refresh();
                 }
                 else
                 {

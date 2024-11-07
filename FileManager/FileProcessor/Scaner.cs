@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FileManager;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -36,16 +37,17 @@ public class Scaner
 
     public void FindFiles(DirectoryInfo dir, bool findInSubDirectory, List<FileInfo> target)
     {
-       
-        
-        DirectoryInfo[] dirs = dir.GetDirectories();
-        FileInfo[] files = dir.GetFiles();
-        List<FileInfo> result = new List<FileInfo>();
-        target.AddRange(regexAnalizer.Filter<FileInfo>(files, FileMasks));
-        if (findInSubDirectory)
+        if (DirectoryIsAcces.CheckAccess(dir))
         {
-            foreach (DirectoryInfo d in dirs)
-                FindFiles(d,findInSubDirectory,target);
+
+            DirectoryInfo[] dirs = dir.GetDirectories();
+            FileInfo[] files = dir.GetFiles();
+            target.AddRange(regexAnalizer.Filter<FileInfo>(files, FileMasks));
+            if (findInSubDirectory)
+            {
+                foreach (DirectoryInfo d in dirs)
+                    FindFiles(d, findInSubDirectory, target);
+            }
         }
     }
 
