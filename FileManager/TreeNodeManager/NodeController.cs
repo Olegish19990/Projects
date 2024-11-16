@@ -4,32 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FileManager
+namespace FileManager.nodeController
 {
-    public class TreeNodeManager
+    public class NodeController
     {
-        public TreeNodeManager(TreeView treeView)
+        private NodeCreator nodeCreator { get; set; }
+
+        public NodeController(TreeView treeView)
         {
             TreeNode rootNode = new TreeNode("Root");
-            
-            
+            nodeCreator = new NodeCreator();
+
             DriveInfo[] allDrives = DriveInfo.GetDrives();
             foreach (var drive in allDrives)
             {
                 DirectoryInfo dir = new DirectoryInfo(drive.Name);
-                rootNode.Nodes.Add(CreateNode(dir));
+                rootNode.Nodes.Add(nodeCreator.CreateNode(dir));
             }
             treeView.Nodes.Add(rootNode);
         }
-
-        private TreeNode CreateNode(DirectoryInfo dir)
-        {
-            TreeNode newNode = new TreeNode(dir.Name);
-            newNode.Tag = dir;
-            AddFakeNode(newNode);
-            return newNode;
-        }
-
 
         public void NodeOpen(TreeNode selectedNode)
         {
@@ -44,25 +37,20 @@ namespace FileManager
 
         }
 
-        private void AddFakeNode(TreeNode node)
-        {
-            node.Nodes.Add(new TreeNode("FakeNode"));
-        }
-
         private void ExpandDirectoryNodes(DirectoryInfo dir, TreeNode node)
-        {   
-           
+        {
+
             DirectoryInfo[] dirs = dir.GetDirectories();
             foreach (var d in dirs)
             {
-                node.Nodes.Add(CreateNode(d));
+                node.Nodes.Add(nodeCreator.CreateNode(d));
             }
         }
 
-       
-       
 
 
-      
+
+
+
     }
 }

@@ -28,11 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             treeView1 = new TreeView();
             listView1 = new ListView();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             button1 = new Button();
+            contextMenuStrip1 = new ContextMenuStrip(components);
+            contextMenuStrip2 = new ContextMenuStrip(components);
             SuspendLayout();
             // 
             // treeView1
@@ -76,15 +79,25 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // contextMenuStrip1
+            // 
+            contextMenuStrip1.Name = "contextMenuStrip1";
+            contextMenuStrip1.Size = new Size(61, 4);
+            // 
+            // contextMenuStrip2
+            // 
+            contextMenuStrip2.Name = "contextMenuStrip2";
+            contextMenuStrip2.Size = new Size(181, 26);
+            // 
             // Manager
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1867, 1073);
+            Controls.Add(listView1);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
-            Controls.Add(listView1);
             Controls.Add(treeView1);
             Name = "Manager";
             Text = "Manager";
@@ -99,5 +112,7 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Button button1;
+        private ContextMenuStrip contextMenuStrip1;
+        private ContextMenuStrip contextMenuStrip2;
     }
 }
