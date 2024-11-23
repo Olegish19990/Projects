@@ -23,7 +23,7 @@ namespace FileManager
             listView.Columns.Add("Size (KB)", 100);      
             listView.Columns.Add("Extension", 100);     
             listView.Columns.Add("Last Modified", 150);
-            listView.Columns.Add("Full path",700);
+            listView.Columns.Add("Full path",500);
 
         }
 
@@ -37,7 +37,7 @@ namespace FileManager
                 item.SubItems.Add(file.Extension);
                 item.SubItems.Add(file.LastWriteTime.ToString());
                 item.SubItems.Add(file.FullName);
-                item.Text = file.FullName;
+                item.Text = file.Name;
                 item.Tag = file;
                 listView.Items.Add(item);
                 

@@ -21,7 +21,7 @@ public class Scaner
     }
 
 
-    public void FindDirectories(string rootPath)
+    public void FindDirectories(string rootPath, List<DirectoryInfo> target)
     {
         DirectoryInfo dir = new DirectoryInfo(rootPath);
 
@@ -29,10 +29,10 @@ public class Scaner
 
         List<DirectoryInfo> findedDirs =  regexAnalizer.Filter<DirectoryInfo>(dirs, DirMasks);
 
-        Container.Dirs.AddRange(findedDirs);
+        target.AddRange(findedDirs);
 
         foreach(DirectoryInfo d in dirs.Except<DirectoryInfo>(findedDirs))
-            FindDirectories(d.FullName);
+            FindDirectories(d.FullName,target);
     }
 
     public void FindFiles(DirectoryInfo dir, bool findInSubDirectory, List<FileInfo> target)

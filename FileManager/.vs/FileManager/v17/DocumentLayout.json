@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\MyPROJERCT\\FileManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\listviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:listviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,40 +31,84 @@
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\listviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:listviewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\currentdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:currentdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\filecreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\filecreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\removing\\remover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\removing\\remover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\fsobjectcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\fsobjectcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\removing\\removermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\removing\\removermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\treenodemanager\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:treenodemanager\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\reporting\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\reporting\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\reporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\reporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\removing\\removerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\removing\\removerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\fileprocessorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\fileprocessorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\classdiagram.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\classdiagram.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\removing\\removermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\removing\\removermode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\regexanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\regexanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\treenodemanager\\nodecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:treenodemanager\\nodecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\createmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\createmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\directorycreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\directorycreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\fsobjectcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\fsobjectcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\manager.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -53,38 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\checkaccess\\directoryisacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:checkaccess\\directoryisacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\treenodemanager\\nodecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:treenodemanager\\nodecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\treenodemanager\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:treenodemanager\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\reporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\reporting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\reporting\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\reporting\\reportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileprocessor\\fileprocessorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileprocessor\\fileprocessorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,87 +126,169 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "FileCreate.Designer.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.Designer.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\FileCreate.Designer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.Designer.cs",
+              "RelativeToolTip": "ItemCreate\\FileCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:05:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileCreate.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\FileCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeToolTip": "ItemCreate\\FileCreate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:22:59.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "FileProcessor\\ClassDiagram.cd",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\ClassDiagram.cd",
+              "RelativeToolTip": "FileProcessor\\ClassDiagram.cd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-11-22T18:56:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryCreate.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\DirectoryCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeToolTip": "ItemCreate\\DirectoryCreate.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:16:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DirectoryCreate.Designer.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.Designer.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\DirectoryCreate.Designer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.Designer.cs",
+              "RelativeToolTip": "ItemCreate\\DirectoryCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:16:47.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateMode.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\CreateMode.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\CreateMode.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\CreateMode.cs",
+              "RelativeToolTip": "ItemCreate\\CreateMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:27:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteItem.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\DeleteItem.cs",
+              "RelativeDocumentMoniker": "DeleteItem.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\DeleteItem.cs",
+              "RelativeToolTip": "DeleteItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:42:24.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CurrentDirectory.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\CurrentDirectory.cs",
               "RelativeDocumentMoniker": "CurrentDirectory.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\CurrentDirectory.cs",
               "RelativeToolTip": "CurrentDirectory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T18:23:52.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "NodeCreator.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\TreeNodeManager\\NodeCreator.cs",
               "RelativeDocumentMoniker": "TreeNodeManager\\NodeCreator.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\TreeNodeManager\\NodeCreator.cs",
               "RelativeToolTip": "TreeNodeManager\\NodeCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T16:20:02.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T16:20:02.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "RemoverException.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Removing\\RemoverException.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Removing\\RemoverException.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Removing\\RemoverException.cs",
               "RelativeToolTip": "FileProcessor\\Removing\\RemoverException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:50:32.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T15:50:32.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "ReportItem.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Reporting\\ReportItem.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Reporting\\ReportItem.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Reporting\\ReportItem.cs",
               "RelativeToolTip": "FileProcessor\\Reporting\\ReportItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T14:49:49.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Report.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Reporting\\Report.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Reporting\\Report.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Reporting\\Report.cs",
               "RelativeToolTip": "FileProcessor\\Reporting\\Report.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T14:49:46.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileDelete.cs",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileDelete.cs",
-              "RelativeDocumentMoniker": "FileDelete.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileDelete.cs",
-              "RelativeToolTip": "FileDelete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:43:41.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "RemoverMode.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Removing\\RemoverMode.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Removing\\RemoverMode.cs",
@@ -182,37 +296,36 @@
               "RelativeToolTip": "FileProcessor\\Removing\\RemoverMode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:33:02.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T20:33:02.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Remover.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Removing\\Remover.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Removing\\Remover.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Removing\\Remover.cs",
               "RelativeToolTip": "FileProcessor\\Removing\\Remover.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwFkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:32:51.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "FileProcessorException.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\FileProcessorException.cs",
               "RelativeDocumentMoniker": "FileProcessor\\FileProcessorException.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\FileProcessorException.cs",
               "RelativeToolTip": "FileProcessor\\FileProcessorException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T22:34:22.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "FSObjectContainer.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\FSObjectContainer.cs",
               "RelativeDocumentMoniker": "FileProcessor\\FSObjectContainer.cs",
@@ -220,25 +333,24 @@
               "RelativeToolTip": "FileProcessor\\FSObjectContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T22:33:50.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T22:33:50.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Scaner.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Scaner.cs",
               "RelativeDocumentMoniker": "FileProcessor\\Scaner.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\Scaner.cs",
               "RelativeToolTip": "FileProcessor\\Scaner.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADgvyYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T22:11:22.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "RegexAnalizer.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileProcessor\\RegexAnalizer.cs",
               "RelativeDocumentMoniker": "FileProcessor\\RegexAnalizer.cs",
@@ -246,25 +358,24 @@
               "RelativeToolTip": "FileProcessor\\RegexAnalizer.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T22:11:19.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T22:11:19.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ListViewManager.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ListViewManager.cs",
               "RelativeDocumentMoniker": "ListViewManager.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ListViewManager.cs",
               "RelativeToolTip": "ListViewManager.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwBUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T21:46:32.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "DirectoryIsAcces.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\CheckAccess\\DirectoryIsAcces.cs",
               "RelativeDocumentMoniker": "CheckAccess\\DirectoryIsAcces.cs",
@@ -272,8 +383,7 @@
               "RelativeToolTip": "CheckAccess\\DirectoryIsAcces.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:51:35.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T20:51:35.538Z"
             },
             {
               "$type": "Document",
@@ -283,33 +393,31 @@
               "RelativeDocumentMoniker": "TreeNodeManager\\NodeController.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\TreeNodeManager\\NodeController.cs",
               "RelativeToolTip": "TreeNodeManager\\NodeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:11:31.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T17:11:31.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "FileManager.csproj",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
               "RelativeDocumentMoniker": "FileManager.csproj",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
               "RelativeToolTip": "FileManager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T21:53:44.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T21:53:44.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
               "RelativeToolTip": "Manager.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAIAxwIEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:41:29.648Z",
               "EditorCaption": ""
@@ -322,43 +430,51 @@
               "RelativeDocumentMoniker": "Manager.Designer.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.Designer.cs",
               "RelativeToolTip": "Manager.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:35:17.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:30:02.614Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Manager.resx",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.resx",
-              "RelativeDocumentMoniker": "Manager.resx",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.resx",
-              "RelativeToolTip": "Manager.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-10-30T21:54:33.462Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DirectoryCreate.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\DirectoryCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs [Design]",
+              "RelativeToolTip": "ItemCreate\\DirectoryCreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:15:24.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileCreate.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\FileCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs [Design]",
+              "RelativeToolTip": "ItemCreate\\FileCreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:14:53.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Manager.cs [Design]",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
@@ -367,6 +483,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:30:43.235Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Manager.resx",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.resx",
+              "RelativeDocumentMoniker": "Manager.resx",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.resx",
+              "RelativeToolTip": "Manager.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-30T21:54:33.462Z",
+              "EditorCaption": ""
             }
           ]
         }

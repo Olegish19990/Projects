@@ -8,18 +8,16 @@ namespace FileManager.nodeController
 {
     public class NodeController
     {
-        private NodeCreator nodeCreator { get; set; }
+        //private NodeCreator nodeCreator { get; set; }
 
         public NodeController(TreeView treeView)
         {
             TreeNode rootNode = new TreeNode("Root");
-            nodeCreator = new NodeCreator();
-
             DriveInfo[] allDrives = DriveInfo.GetDrives();
             foreach (var drive in allDrives)
             {
                 DirectoryInfo dir = new DirectoryInfo(drive.Name);
-                rootNode.Nodes.Add(nodeCreator.CreateNode(dir));
+                rootNode.Nodes.Add(NodeCreator.CreateNode(dir));
             }
             treeView.Nodes.Add(rootNode);
         }
@@ -43,9 +41,11 @@ namespace FileManager.nodeController
             DirectoryInfo[] dirs = dir.GetDirectories();
             foreach (var d in dirs)
             {
-                node.Nodes.Add(nodeCreator.CreateNode(d));
+                node.Nodes.Add(NodeCreator.CreateNode(d));
             }
         }
+
+
 
 
 

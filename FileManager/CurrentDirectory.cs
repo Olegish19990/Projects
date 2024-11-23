@@ -10,4 +10,11 @@ namespace FileManager
     {
         public static DirectoryInfo? CurrentDir { get; set; }
     }
+
+    /*public class CurrentDirectory
+    {
+        public DirectoryInfo? CurrentDir { get; set; }
+    }
+*/
+
 }

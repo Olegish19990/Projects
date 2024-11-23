@@ -51,7 +51,7 @@
             // 
             listView1.Location = new Point(368, 32);
             listView1.Name = "listView1";
-            listView1.Size = new Size(1189, 599);
+            listView1.Size = new Size(1189, 979);
             listView1.TabIndex = 1;
             listView1.UseCompatibleStateImageBehavior = false;
             // 
@@ -87,7 +87,7 @@
             // contextMenuStrip2
             // 
             contextMenuStrip2.Name = "contextMenuStrip2";
-            contextMenuStrip2.Size = new Size(181, 26);
+            contextMenuStrip2.Size = new Size(61, 4);
             // 
             // Manager
             // 

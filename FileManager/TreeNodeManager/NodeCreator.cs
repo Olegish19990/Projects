@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FileManager.nodeController
 {
-    public class NodeCreator
+    public static class NodeCreator
     {
-        public TreeNode CreateNode(DirectoryInfo dir)
+        public static TreeNode CreateNode(DirectoryInfo dir)
         {
             TreeNode newNode = new TreeNode(dir.Name);
             newNode.Tag = dir;
@@ -16,7 +16,7 @@ namespace FileManager.nodeController
             return newNode;
         }
 
-        public void AddFakeNode(TreeNode node)
+        public static void AddFakeNode(TreeNode node)
         {
             node.Nodes.Add(new TreeNode("FakeNode"));
         }
