@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FileManager
+namespace FileManager.FileOpen.FileTypes
 {
-    public static class CurrentDirectory
+    public interface IFileViewer
     {
-        public static DirectoryInfo? CurrentDir { get; set; }
+        public void View(Window window, FileInfo file);
     }
-
 }

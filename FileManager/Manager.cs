@@ -9,6 +9,7 @@ using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using FileManager.FileOpen;
 using FileManager.ItemCreate;
 using FileManager.nodeController;
 using FileProcessor;
@@ -38,10 +39,10 @@ namespace FileManager
             nodeController = new NodeController(treeView1);
             listViewManager = new ListViewManager(listView1);
             deleteItem = new DeleteItem();
-            //nodeIsAccess = new NodeIsAccess();
             scaner = new Scaner();
             listView1.ContextMenuStrip = contextMenuStrip1;
             treeView1.ContextMenuStrip = contextMenuStrip2;
+            listView1.DoubleClick += listView_DoubleClick;
 
 
         }
@@ -58,7 +59,6 @@ namespace FileManager
             contextMenuStrip2.Items.Add(deleteFolders);
             contextMenuStrip2.Items.Add(createDirectory);
         }
-
 
         private void Create(CreateMode mode)
         {
@@ -87,40 +87,27 @@ namespace FileManager
           
             var files = listViewManager.GetSelectedItems();
             string message = "Do you want to delete the selected items?";
-
-
-
-
-        
-    
             if (DirectoryIsAcces.CheckAccess(CurrentDirectory.CurrentDir))
             {
-                var result = MessageBox.Show(message, "Confirm Delete", MessageBoxButtons.YesNo);
-                if (result == DialogResult.Yes)
+                if (deleteItem.ConfirmDelete())
                 {
-                    var report = deleteItem.Delete(mode, files);
-                    if (mode == RemoverMode.Files)
-                    {
-                        listViewManager.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
-
-                        
-                    }
-                    else
-                    {
-                        treeView1.SelectedNode.Remove();
-                    }
+                    deleteItem.Delete(mode, files);
+                    deleteItem.UpdateUIAfterDeletion(mode,listViewManager,treeView1);
                 }
             }
             else
             {
                 MessageBox.Show("Access denied");               
             }   
-            
-
         }
+        
+        private void listView_DoubleClick(object sender, EventArgs e)
+        {
+            var selectedFile = (FileInfo)listView1.SelectedItems[0].Tag;
+            FileWindow fileWindow = new FileWindow(selectedFile);
            
+        }
 
- 
         private void treeView1_BeforeExpand(object sender, TreeViewCancelEventArgs e)
         {
             if (e.Node.Text != "Root")

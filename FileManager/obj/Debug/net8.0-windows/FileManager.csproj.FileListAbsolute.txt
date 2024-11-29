@@ -18,3 +18,4 @@ D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.sourcelink.json
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.Properties.Resources.resources
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.ItemCreate.DirectoryCreate.resources
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.ItemCreate.FileCreate.resources
+D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.FileOpen.FileWindow.resources
