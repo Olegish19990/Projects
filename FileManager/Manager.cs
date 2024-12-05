@@ -15,17 +15,15 @@ using FileManager.nodeController;
 using FileProcessor;
 using FileProcessor.Removing;
 using FileProcessor.Reporting;
-
+using FileManager.FileHandling;
 namespace FileManager
 {
     public partial class Manager : Form
     {
         private NodeController nodeController { get; set; }
-        private DeleteItem deleteItem { get; set; }
-        private ListViewManager listViewManager { get; set; }
-        private Scaner scaner { get; set; }
+        private FileDisplayer fileDisplayer { get; set; }
+        private ContextMenuHandler contextMenuHandler { get; set; }
 
-       // private CurrentDirectory currentDir { get;set; }
 
         public Manager()
         {
@@ -37,9 +35,7 @@ namespace FileManager
         private void ManagerInitialize()
         {
             nodeController = new NodeController(treeView1);
-            listViewManager = new ListViewManager(listView1);
-            deleteItem = new DeleteItem();
-            scaner = new Scaner();
+            fileDisplayer = new FileDisplayer(listView1);
             listView1.ContextMenuStrip = contextMenuStrip1;
             treeView1.ContextMenuStrip = contextMenuStrip2;
             listView1.DoubleClick += listView_DoubleClick;
@@ -49,61 +45,14 @@ namespace FileManager
 
         private void ContextMenuInitilize()
         {
-            ToolStripMenuItem deleteFiles = new ToolStripMenuItem("Delete Files", null, (sender, e) => Delete_click(RemoverMode.Files));
-            ToolStripMenuItem deleteFolders = new ToolStripMenuItem("Delete Folders", null, (sender, e) => Delete_click(RemoverMode.Directories));
-            ToolStripMenuItem createFile = new ToolStripMenuItem("Create File", null, (sender, e) => Create(CreateMode.File));
-            ToolStripMenuItem createDirectory = new ToolStripMenuItem("Create Directory", null, (sender, e) => Create(CreateMode.Directory));
-            contextMenuStrip1.Items.Add(deleteFiles);
-            contextMenuStrip1.Items.Add(createFile);
-
-            contextMenuStrip2.Items.Add(deleteFolders);
-            contextMenuStrip2.Items.Add(createDirectory);
+            
+            contextMenuHandler = new ContextMenuHandler(contextMenuStrip1,contextMenuStrip2, fileDisplayer, treeView1);
         }
 
-        private void Create(CreateMode mode)
-        {
-            if (DirectoryIsAcces.CheckAccess(CurrentDirectory.CurrentDir))
-            {
-
-                if (mode == CreateMode.Directory)
-                {
-                    DirectoryCreate directoryCreate = new DirectoryCreate(treeView1.SelectedNode);
-                    directoryCreate.ShowDialog();
-                }
-                else if (mode == CreateMode.File)
-                {
-                    FileCreate fileCreate = new FileCreate();
-                    fileCreate.ShowDialog();
-                    listViewManager.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
-                }
-            }
-            else
-            {
-                MessageBox.Show("Access denied");
-            }
-        }
-        private void Delete_click(RemoverMode mode)
-        {
-          
-            var files = listViewManager.GetSelectedItems();
-            string message = "Do you want to delete the selected items?";
-            if (DirectoryIsAcces.CheckAccess(CurrentDirectory.CurrentDir))
-            {
-                if (deleteItem.ConfirmDelete())
-                {
-                    deleteItem.Delete(mode, files);
-                    deleteItem.UpdateUIAfterDeletion(mode,listViewManager,treeView1);
-                }
-            }
-            else
-            {
-                MessageBox.Show("Access denied");               
-            }   
-        }
-        
+       
         private void listView_DoubleClick(object sender, EventArgs e)
         {
-            var selectedFile = (FileInfo)listView1.SelectedItems[0].Tag;
+            FileInfo? selectedFile = listView1.SelectedItems[0].Tag as FileInfo;
             FileWindow fileWindow = new FileWindow(selectedFile);
            
         }
@@ -128,10 +77,11 @@ namespace FileManager
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Scaner scaner = new Scaner();
             scaner.FileMasks = textBox2.Lines;
             List<FileInfo> scanedFiles = new List<FileInfo>();
             scaner.FindFiles(CurrentDirectory.CurrentDir, true, scanedFiles);
-            listViewManager.DisplayFiles(scanedFiles);
+            fileDisplayer.DisplayFiles(scanedFiles);
         }
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
@@ -144,9 +94,9 @@ namespace FileManager
                 {
                     CurrentDirectory.CurrentDir = (DirectoryInfo)e.Node.Tag;
                     var dir = (DirectoryInfo)e.Node.Tag;
-                    listViewManager.DisplayFiles(dir.GetFiles());
+                    fileDisplayer.DisplayFiles(dir.GetFiles());
                     textBox1.Text = CurrentDirectory.CurrentDir.FullName;
-                    //textBox1.Refresh();
+            
                 }
                 else
                 {

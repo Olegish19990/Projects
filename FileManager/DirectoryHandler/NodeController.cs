@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FileManager.FileOpen.FileTypes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,11 +9,12 @@ namespace FileManager.nodeController
 {
     public class NodeController
     {
-        //private NodeCreator nodeCreator { get; set; }
 
         public NodeController(TreeView treeView)
         {
+        
             TreeNode rootNode = new TreeNode("Root");
+
             DriveInfo[] allDrives = DriveInfo.GetDrives();
             foreach (var drive in allDrives)
             {

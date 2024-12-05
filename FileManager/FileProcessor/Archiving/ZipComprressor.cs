@@ -28,7 +28,7 @@ internal class ZipComprressor : ICompressor
             throw new FileAlreadyExistsException($"File {outFile} already exists");
 
         ZipFile.CreateFromDirectory(target, outFile, CompressionLevel, IncludeParentDirectory);
-
+       
         return outFile;
     }
 

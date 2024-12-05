@@ -50,7 +50,7 @@ public class ArchiveEngine
         }
 
         archiveFileName = string.IsNullOrEmpty(archiveFileName) ? Path.GetFileName(path) : archiveFileName;
-
+        
         return compressor.CompressDir(path, receiveDir, archiveFileName);
     }
 }

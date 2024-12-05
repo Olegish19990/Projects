@@ -10,7 +10,7 @@ namespace FileManager.FileOpen.FileTypes
     {
         public void View(Window window, FileInfo file)
         {
-            MessageBox.Show($"File {file.Name} has an unknown type");
+            MessageBox.Show($"{file.Name} has an unknown type");
            
         }
     }

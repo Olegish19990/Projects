@@ -21,7 +21,7 @@ namespace FileManager.FileOpen.FileTypes
         {
 
             IFileViewer type;
-            if(ValidTypes.TryGetValue(file.Extension, out type))
+            if(ValidTypes.TryGetValue(file.Extension.ToLower(), out type))
             {
                 return type;
             }

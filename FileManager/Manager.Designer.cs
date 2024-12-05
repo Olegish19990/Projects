@@ -40,6 +40,7 @@
             // 
             // treeView1
             // 
+            treeView1.BackColor = SystemColors.ButtonFace;
             treeView1.Location = new Point(12, 3);
             treeView1.Name = "treeView1";
             treeView1.Size = new Size(321, 1008);
@@ -59,6 +60,7 @@
             // 
             textBox1.Location = new Point(368, 3);
             textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
             textBox1.Size = new Size(882, 23);
             textBox1.TabIndex = 2;
             // 

@@ -10,6 +10,7 @@ namespace FileManager.FileOpen.FileTypes
     {
         public void View(Window window, FileInfo file)
         {
+
             byte[] imageBytes = File.ReadAllBytes(file.FullName);
             Bitmap bitmap = new Bitmap(file.FullName);
             Size pictureSize = new Size(bitmap.Width, bitmap.Height);

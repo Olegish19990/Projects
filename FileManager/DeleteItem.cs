@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using FileProcessor.Reporting;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using FileManager.FileHandling;
 
 namespace FileManager
 {
@@ -16,7 +17,7 @@ namespace FileManager
         public Report<FileSystemInfo> Delete(RemoverMode mode, List<FileInfo> files)
         {
 
-         
+      
             Remover remover = new Remover(new FSObjectContainer());
             if (mode == RemoverMode.Files)
             {
@@ -38,11 +39,11 @@ namespace FileManager
             return result == DialogResult.Yes;
         }
 
-        public void UpdateUIAfterDeletion(RemoverMode mode,ListViewManager listViewManager, System.Windows.Forms.TreeView treeView1)
+        public void UpdateUIAfterDeletion(RemoverMode mode, FileDisplayer fileDisplayer, System.Windows.Forms.TreeView treeView1)
         {
             if (mode == RemoverMode.Files)
             {
-                listViewManager.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
+                fileDisplayer.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
             }
             else
             {
@@ -59,7 +60,7 @@ namespace FileManager
 /*private void Delete_click(RemoverMode mode)
 {
 
-    var files = listViewManager.GetSelectedItems();
+    var files = fileDisplayer.GetSelectedItems();
     string message = "Do you want to delete the selected items?";
     if (DirectoryIsAcces.CheckAccess(CurrentDirectory.CurrentDir))
     {
@@ -69,7 +70,7 @@ namespace FileManager
             var report = deleteItem.Delete(mode, files);
             if (mode == RemoverMode.Files)
             {
-                listViewManager.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
+                fileDisplayer.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
 
 
             }
