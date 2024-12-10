@@ -17,6 +17,17 @@ namespace FileManager.ItemRenamer
 
         private void Rename()
         {
+
+
+            string stringPattern = PatternBuild();
+
+            Renamer renamer = new Renamer(new FSObjectContainer() { Files = files });
+            renamer.RenameFiles(stringPattern);
+            this.Close();
+        }
+
+        private string PatternBuild()
+        {
             StringBuilder pattern = new StringBuilder();
 
             if (textBox1.Text.Length > 0)
@@ -37,11 +48,7 @@ namespace FileManager.ItemRenamer
                 pattern.Append("<uuid>");
             }
 
-            string stringPattern = pattern.ToString();
-
-            Renamer renamer = new Renamer(new FSObjectContainer() { Files = files} );
-            renamer.RenameFiles(stringPattern);
-            this.Close();
+            return pattern.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)

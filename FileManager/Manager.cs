@@ -16,6 +16,7 @@ using FileProcessor;
 using FileProcessor.Removing;
 using FileProcessor.Reporting;
 using FileManager.FileHandling;
+using FileManager.ContextMenuController;
 namespace FileManager
 {
     public partial class Manager : Form
@@ -39,10 +40,10 @@ namespace FileManager
             listView1.ContextMenuStrip = contextMenuStrip1;
             treeView1.ContextMenuStrip = contextMenuStrip2;
             listView1.DoubleClick += listView_DoubleClick;
-
+           
 
         }
-
+        
         private void ContextMenuInitilize()
         {
             
@@ -54,6 +55,7 @@ namespace FileManager
         {
             FileInfo? selectedFile = listView1.SelectedItems[0].Tag as FileInfo;
             FileWindow fileWindow = new FileWindow(selectedFile);
+           
            
         }
 
@@ -75,6 +77,7 @@ namespace FileManager
             }
         }
 
+        //Поиск файлов по regex
         private void button1_Click(object sender, EventArgs e)
         {
             Scaner scaner = new Scaner();

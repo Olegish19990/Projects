@@ -18,8 +18,12 @@ namespace FileManager.nodeController
             DriveInfo[] allDrives = DriveInfo.GetDrives();
             foreach (var drive in allDrives)
             {
+                
                 DirectoryInfo dir = new DirectoryInfo(drive.Name);
+                TreeNode node = new TreeNode();
+               
                 rootNode.Nodes.Add(NodeCreator.CreateNode(dir));
+                
             }
             treeView.Nodes.Add(rootNode);
         }

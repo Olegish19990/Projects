@@ -100,15 +100,16 @@
             // 
             // numericUpDown1
             // 
-            numericUpDown1.Location = new Point(141, 141);
+            numericUpDown1.Location = new Point(219, 145);
+            numericUpDown1.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(60, 23);
             numericUpDown1.TabIndex = 7;
+            numericUpDown1.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // numericUpDown2
             // 
-            numericUpDown2.Location = new Point(222, 141);
-            numericUpDown2.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            numericUpDown2.Location = new Point(142, 144);
             numericUpDown2.Name = "numericUpDown2";
             numericUpDown2.Size = new Size(60, 23);
             numericUpDown2.TabIndex = 8;
@@ -126,7 +127,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(234, 119);
+            label4.Location = new Point(219, 120);
             label4.Name = "label4";
             label4.Size = new Size(30, 15);
             label4.TabIndex = 10;
