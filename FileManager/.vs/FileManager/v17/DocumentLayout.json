@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -55,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -85,8 +85,7 @@
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
               "RelativeToolTip": "FileManager.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T21:23:14.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:23:14.339Z"
             },
             {
               "$type": "Document",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "CheckAccess\\DirectoryIsAcces.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:22:26.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:22:26.791Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "DirectoryHandler\\NodeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:12:22.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:12:22.128Z"
             },
             {
               "$type": "Document",
@@ -124,8 +121,7 @@
               "RelativeToolTip": "FileDisplaying\\FileDisplayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:07:21.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:07:21.111Z"
             },
             {
               "$type": "Document",
@@ -137,20 +133,7 @@
               "RelativeToolTip": "DirectoryHandler\\NodeCreator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:07:19.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileRenamer.cs [Design]",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
-              "RelativeDocumentMoniker": "ItemRenamer\\FileRenamer.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs [Design]",
-              "RelativeToolTip": "ItemRenamer\\FileRenamer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:58:58.623Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-10T21:07:19.011Z"
             },
             {
               "$type": "Document",
@@ -167,18 +150,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Manager.cs [Design]",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
-              "RelativeDocumentMoniker": "Manager.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs [Design]",
-              "RelativeToolTip": "Manager.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:46:03.542Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "CurrentDirectory.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\CurrentDirectory.cs",
@@ -187,8 +158,7 @@
               "RelativeToolTip": "CurrentDirectory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:46:00.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:46:00.926Z"
             },
             {
               "$type": "Document",
@@ -198,7 +168,7 @@
               "RelativeDocumentMoniker": "ContextMenuController\\FolderContextMenuHandler.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\FolderContextMenuHandler.cs",
               "RelativeToolTip": "ContextMenuController\\FolderContextMenuHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:44:35.673Z",
               "EditorCaption": ""
@@ -213,8 +183,7 @@
               "RelativeToolTip": "ContextMenuController\\FileContextMenuHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:44:22.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:44:22.134Z"
             },
             {
               "$type": "Document",
@@ -226,8 +195,7 @@
               "RelativeToolTip": "ContextMenuController\\IContextMenuHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:43:58.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:43:58.854Z"
             },
             {
               "$type": "Document",
@@ -239,8 +207,7 @@
               "RelativeToolTip": "ContextMenuController\\ContextMenuHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:55:22.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:55:22.876Z"
             },
             {
               "$type": "Document",
@@ -269,6 +236,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRenamer.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
+              "RelativeDocumentMoniker": "ItemRenamer\\FileRenamer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs [Design]",
+              "RelativeToolTip": "ItemRenamer\\FileRenamer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:58.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs [Design]",
+              "RelativeToolTip": "Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:46:03.542Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FolderRenamer.cs [Design]",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs",
@@ -276,8 +265,7 @@
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs [Design]",
               "RelativeToolTip": "ItemRenamer\\FolderRenamer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:53:30.187Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-10T09:53:30.187Z"
             },
             {
               "$type": "Bookmark",
