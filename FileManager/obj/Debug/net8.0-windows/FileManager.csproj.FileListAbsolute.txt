@@ -37,3 +37,8 @@ D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.csproj.AssemblyRe
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileMana.0F99248D.Up2Date
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.ItemRenamer.FileRenamer.resources
 D:\MyPROJERCT\FileManager\obj\Debug\net8.0-windows\FileManager.ItemRenamer.FolderRenamer.resources
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\file.png
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\folder.png
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\Aspose.PDF.dll
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\MyPROJERCT\FileManager\bin\Debug\net8.0-windows\Newtonsoft.Json.dll

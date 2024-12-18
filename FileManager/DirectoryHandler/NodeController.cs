@@ -12,9 +12,15 @@ namespace FileManager.nodeController
 
         public NodeController(TreeView treeView)
         {
-        
-            TreeNode rootNode = new TreeNode("Root");
 
+            ImageList imageList = new ImageList();
+            imageList.Images.Add("folder", Image.FromFile("folder.png"));
+          
+            treeView.ImageList = imageList;
+
+
+            TreeNode rootNode = new TreeNode("Root",0,0);
+            
             DriveInfo[] allDrives = DriveInfo.GetDrives();
             foreach (var drive in allDrives)
             {

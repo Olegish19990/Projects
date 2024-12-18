@@ -49,12 +49,16 @@ namespace FileManager.ItemCreate
 
          
             string fullPath = Path.Combine(directoryPath, finalName + (extension != null ? $".{extension}" : ""));
-            using (FileStream fs = File.Create(fullPath))
+            try
             {
-               
+                using (FileStream fs = File.Create(fullPath)) { }
+                MessageBox.Show($"File created: {fullPath}", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            MessageBox.Show($"File created: {fullPath}", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
+            catch
+            {
+                MessageBox.Show("file creation error");
+            }
+           
             this.Close();
         }
     }

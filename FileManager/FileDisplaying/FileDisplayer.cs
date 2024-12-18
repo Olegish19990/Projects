@@ -13,12 +13,17 @@ namespace FileManager.FileHandling
     {
         public ListView listView { get; set; }
 
-        public FileDisplayer(ListView listView)
+        public FileDisplayer(ListView NewlistView)
         {
-            this.listView = listView;
+            ImageList icons = new ImageList();
+
+            listView = NewlistView;
+            icons.Images.Add("file", Image.FromFile("file.png"));
             listView.View = View.Details;
+            listView.SmallImageList = icons;
             listView.FullRowSelect = true;
             listView.GridLines = true;
+          
             listView.Columns.Add("File Name", 200);
             listView.Columns.Add("Size (KB)", 100);
             listView.Columns.Add("Extension", 100);
@@ -36,6 +41,8 @@ namespace FileManager.FileHandling
                 {
                     Tag = file
                 };
+                item.ImageKey = "file"; // Указываем ключ для иконки
+                
                 item.SubItems.Add((file.Length / 1024).ToString());
                 item.SubItems.Add(file.Extension);
                 item.SubItems.Add(file.LastWriteTime.ToString());

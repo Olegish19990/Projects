@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\MyPROJERCT\\FileManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\foldercontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\foldercontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\contextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\contextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\filecontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\filecontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\icontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\icontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\directorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\directoryhandler\\nodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,28 +31,91 @@
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:directoryhandler\\nodecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\checkaccess\\directoryisacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:checkaccess\\directoryisacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\icontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\icontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\contextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\contextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\filecontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\filecontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\contextmenucontroller\\foldercontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:contextmenucontroller\\foldercontextmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filemanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemcreate\\filecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\filerenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileopen\\filewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileopen\\filewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|D:\\MyPROJERCT\\FileManager\\fileopen\\filewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileopen\\filewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileopen\\filetypes\\filetypeanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileopen\\filetypes\\filetypeanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\fileopen\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:fileopen\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filedisplaying\\filedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filedisplaying\\filedisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\icons8-file-32.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:filemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\currentdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:currentdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:deleteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|d:\\myprojerct\\filemanager\\itemrenamer\\folderrenamer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0446724A-526E-4177-BEBC-55745676B3C6}|FileManager.csproj|solutionrelative:itemrenamer\\folderrenamer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,112 +125,210 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
+              "Title": "FileRenamer.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
+              "RelativeDocumentMoniker": "ItemRenamer\\FileRenamer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
+              "RelativeToolTip": "ItemRenamer\\FileRenamer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:04:30.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileWindow.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileWindow.cs",
+              "RelativeDocumentMoniker": "FileOpen\\FileWindow.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileWindow.cs",
+              "RelativeToolTip": "FileOpen\\FileWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:04:20.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectoryCreate.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\DirectoryCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeToolTip": "ItemCreate\\DirectoryCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:01:21.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileCreate.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\FileCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeToolTip": "ItemCreate\\FileCreate.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAzwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:57:03.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileTypeAnalyzer.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileTypes\\FileTypeAnalyzer.cs",
+              "RelativeDocumentMoniker": "FileOpen\\FileTypes\\FileTypeAnalyzer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileTypes\\FileTypeAnalyzer.cs",
+              "RelativeToolTip": "FileOpen\\FileTypes\\FileTypeAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:33:15.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "icons8-file-32.png",
+              "DocumentMoniker": "D:\\Downloads\\icons8-file-32.png",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\icons8-file-32.png",
+              "ToolTip": "D:\\Downloads\\icons8-file-32.png",
+              "RelativeToolTip": "..\\..\\Downloads\\icons8-file-32.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-13T19:00:24.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:27:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Window.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileOpen\\Window.cs",
+              "RelativeDocumentMoniker": "FileOpen\\Window.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileOpen\\Window.cs",
+              "RelativeToolTip": "FileOpen\\Window.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:25:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileManager.csproj",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
+              "RelativeDocumentMoniker": "FileManager.csproj",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
+              "RelativeToolTip": "FileManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T18:21:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FolderRenamer.Designer.cs",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.Designer.cs",
+              "RelativeDocumentMoniker": "ItemRenamer\\FolderRenamer.Designer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.Designer.cs",
+              "RelativeToolTip": "ItemRenamer\\FolderRenamer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:19:25.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FileManager",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
               "RelativeDocumentMoniker": "FileManager.csproj",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileManager.csproj",
               "RelativeToolTip": "FileManager.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T21:23:14.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:23:14.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "DirectoryIsAcces.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\CheckAccess\\DirectoryIsAcces.cs",
               "RelativeDocumentMoniker": "CheckAccess\\DirectoryIsAcces.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\CheckAccess\\DirectoryIsAcces.cs",
               "RelativeToolTip": "CheckAccess\\DirectoryIsAcces.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T21:22:26.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "NodeController.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\DirectoryHandler\\NodeController.cs",
               "RelativeDocumentMoniker": "DirectoryHandler\\NodeController.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\DirectoryHandler\\NodeController.cs",
               "RelativeToolTip": "DirectoryHandler\\NodeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T21:12:22.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "FileDisplayer.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileDisplaying\\FileDisplayer.cs",
               "RelativeDocumentMoniker": "FileDisplaying\\FileDisplayer.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileDisplaying\\FileDisplayer.cs",
               "RelativeToolTip": "FileDisplaying\\FileDisplayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:07:21.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:07:21.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "NodeCreator.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\DirectoryHandler\\NodeCreator.cs",
               "RelativeDocumentMoniker": "DirectoryHandler\\NodeCreator.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\DirectoryHandler\\NodeCreator.cs",
               "RelativeToolTip": "DirectoryHandler\\NodeCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T21:07:19.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileRenamer.cs [Design]",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
-              "RelativeDocumentMoniker": "ItemRenamer\\FileRenamer.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs [Design]",
-              "RelativeToolTip": "ItemRenamer\\FileRenamer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:58:58.623Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Manager.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
               "RelativeDocumentMoniker": "Manager.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
               "RelativeToolTip": "Manager.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:49:03.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Manager.cs [Design]",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
-              "RelativeDocumentMoniker": "Manager.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs [Design]",
-              "RelativeToolTip": "Manager.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:46:03.542Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "CurrentDirectory.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\CurrentDirectory.cs",
               "RelativeDocumentMoniker": "CurrentDirectory.cs",
@@ -187,97 +336,81 @@
               "RelativeToolTip": "CurrentDirectory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:46:00.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:46:00.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "FolderContextMenuHandler.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\FolderContextMenuHandler.cs",
               "RelativeDocumentMoniker": "ContextMenuController\\FolderContextMenuHandler.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\FolderContextMenuHandler.cs",
               "RelativeToolTip": "ContextMenuController\\FolderContextMenuHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:44:35.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:44:35.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "FileContextMenuHandler.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\FileContextMenuHandler.cs",
               "RelativeDocumentMoniker": "ContextMenuController\\FileContextMenuHandler.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\FileContextMenuHandler.cs",
               "RelativeToolTip": "ContextMenuController\\FileContextMenuHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:44:22.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:44:22.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IContextMenuHandler.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\IContextMenuHandler.cs",
               "RelativeDocumentMoniker": "ContextMenuController\\IContextMenuHandler.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\IContextMenuHandler.cs",
               "RelativeToolTip": "ContextMenuController\\IContextMenuHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:43:58.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:43:58.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ContextMenuHandler.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\ContextMenuHandler.cs",
               "RelativeDocumentMoniker": "ContextMenuController\\ContextMenuHandler.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ContextMenuController\\ContextMenuHandler.cs",
               "RelativeToolTip": "ContextMenuController\\ContextMenuHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:55:22.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T09:55:22.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "DeleteItem.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\DeleteItem.cs",
               "RelativeDocumentMoniker": "DeleteItem.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\DeleteItem.cs",
               "RelativeToolTip": "DeleteItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:55:20.788Z"
+              "WhenOpened": "2024-12-10T09:55:20.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "FolderRenamer.cs",
               "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs",
               "RelativeDocumentMoniker": "ItemRenamer\\FolderRenamer.cs",
               "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs",
               "RelativeToolTip": "ItemRenamer\\FolderRenamer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAzwC0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T09:53:48.172Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FolderRenamer.cs [Design]",
-              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs",
-              "RelativeDocumentMoniker": "ItemRenamer\\FolderRenamer.cs",
-              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs [Design]",
-              "RelativeToolTip": "ItemRenamer\\FolderRenamer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:53:30.187Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -286,6 +419,74 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FolderRenamer.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs",
+              "RelativeDocumentMoniker": "ItemRenamer\\FolderRenamer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FolderRenamer.cs [Design]",
+              "RelativeToolTip": "ItemRenamer\\FolderRenamer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:53:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileWindow.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileWindow.cs",
+              "RelativeDocumentMoniker": "FileOpen\\FileWindow.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\FileOpen\\FileWindow.cs [Design]",
+              "RelativeToolTip": "FileOpen\\FileWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T19:12:57.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileCreate.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\FileCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\FileCreate.cs [Design]",
+              "RelativeToolTip": "ItemCreate\\FileCreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:18:47.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectoryCreate.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs",
+              "RelativeDocumentMoniker": "ItemCreate\\DirectoryCreate.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemCreate\\DirectoryCreate.cs [Design]",
+              "RelativeToolTip": "ItemCreate\\DirectoryCreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:18:32.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileRenamer.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs",
+              "RelativeDocumentMoniker": "ItemRenamer\\FileRenamer.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\ItemRenamer\\FileRenamer.cs [Design]",
+              "RelativeToolTip": "ItemRenamer\\FileRenamer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:58.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\MyPROJERCT\\FileManager\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "D:\\MyPROJERCT\\FileManager\\Manager.cs [Design]",
+              "RelativeToolTip": "Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:46:03.542Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

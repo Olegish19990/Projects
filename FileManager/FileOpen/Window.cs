@@ -11,6 +11,6 @@ namespace FileManager.FileOpen
         public RichTextBox RichText { get; set; }
         public PictureBox PictureBox { get; set; }
         public FileWindow fileWindow { get; set; }
-
+        public object Controls { get; internal set; }
     }
 }

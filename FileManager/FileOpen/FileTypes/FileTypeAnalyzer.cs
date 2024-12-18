@@ -15,6 +15,7 @@ namespace FileManager.FileOpen.FileTypes
             {".png", new PictureFile()},
             {".jpg", new PictureFile()},
            
+           
 
         };
         public IFileViewer Analyze(FileInfo file)

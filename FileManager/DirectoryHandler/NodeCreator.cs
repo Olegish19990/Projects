@@ -10,7 +10,7 @@ namespace FileManager.nodeController
     {
         public static TreeNode CreateNode(DirectoryInfo dir)
         {
-            TreeNode newNode = new TreeNode(dir.Name);
+            TreeNode newNode = new TreeNode(dir.Name,0,0);
             newNode.Tag = dir;
             AddFakeNode(newNode);
             return newNode;

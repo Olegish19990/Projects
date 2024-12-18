@@ -58,6 +58,7 @@
             // 
             // textBox1
             // 
+            textBox1.Enabled = false;
             textBox1.Location = new Point(368, 3);
             textBox1.Name = "textBox1";
             textBox1.ReadOnly = true;
@@ -95,6 +96,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            AutoSize = true;
             ClientSize = new Size(1867, 1073);
             Controls.Add(listView1);
             Controls.Add(button1);

@@ -58,7 +58,7 @@ namespace FileManager
            
            
         }
-
+       
         private void treeView1_BeforeExpand(object sender, TreeViewCancelEventArgs e)
         {
             if (e.Node.Text != "Root")
@@ -72,6 +72,7 @@ namespace FileManager
                 {
                     MessageBox.Show("Access denied");
                     e.Node.ForeColor = Color.Red;
+                  
                     e.Node.Nodes.Clear();
                 }
             }
@@ -83,7 +84,7 @@ namespace FileManager
             Scaner scaner = new Scaner();
             scaner.FileMasks = textBox2.Lines;
             List<FileInfo> scanedFiles = new List<FileInfo>();
-            scaner.FindFiles(CurrentDirectory.CurrentDir, true, scanedFiles);
+            scaner.FindFiles((DirectoryInfo)treeView1.SelectedNode.Tag, true, scanedFiles);
             fileDisplayer.DisplayFiles(scanedFiles);
         }
 

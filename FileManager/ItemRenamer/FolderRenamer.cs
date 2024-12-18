@@ -31,7 +31,7 @@ namespace FileManager.ItemRenamer
 
             if (new DirectoryInfo(textBox1.Text).Exists)
             {
-                MessageBox.Show("Directory already exists!");
+                MessageBox.Show("Directory already exists");
             }
             else
             {
@@ -40,7 +40,6 @@ namespace FileManager.ItemRenamer
                     DirectoryInfo dir = (DirectoryInfo)node.Tag;
                     string newPath = Path.Combine(dir.Parent.FullName, textBox1.Text);
                     dir.MoveTo(newPath);
-                    //node.Text = textBox1.Text;
                 }
                 catch
                 {

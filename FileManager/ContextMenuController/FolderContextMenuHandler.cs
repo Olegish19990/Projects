@@ -31,22 +31,29 @@ namespace FileManager.ContextMenuController
 
             if (deleteItem.ConfirmDelete())
             {
-                
-                deleteItem.Delete(RemoverMode.Directories, null);
-
-               
-                if (treeView.SelectedNode != null)
+                try
                 {
-                    TreeNode parentNode = treeView.SelectedNode.Parent; 
-                    treeView.SelectedNode.Remove(); 
-
-                   
-                    if (parentNode != null && parentNode.Nodes.Count == 0)
+                    deleteItem.Delete(RemoverMode.Directories, null);
+                    if (treeView.SelectedNode != null)
                     {
-                        DirectoryInfo dirInfo = (DirectoryInfo)parentNode.Tag;
-                        ExpandDirectoryNodes(dirInfo, parentNode);
+                        TreeNode parentNode = treeView.SelectedNode.Parent;
+                        treeView.SelectedNode.Remove();
+
+
+                        if (parentNode != null && parentNode.Nodes.Count == 0)
+                        {
+                            DirectoryInfo dirInfo = (DirectoryInfo)parentNode.Tag;
+                            ExpandDirectoryNodes(dirInfo, parentNode);
+                        }
                     }
                 }
+                catch
+                {
+                    MessageBox.Show("Deletion error");
+                }
+
+               
+               
             }
         }
 
@@ -73,19 +80,12 @@ namespace FileManager.ContextMenuController
 
         public void Rename()
         {
-            if (treeView.SelectedNode.Tag is DriveInfo)
-            {
-                MessageBox.Show("Drine name cannot be changed");
-               
-            }
-            else
-            {
-                FolderRenamer folderRenamer = new FolderRenamer(treeView.SelectedNode);
-                folderRenamer.ShowDialog();
-                TreeNode parentNode = treeView.SelectedNode.Parent;
-                ExpandDirectoryNodes((DirectoryInfo)treeView.SelectedNode.Parent.Tag, parentNode);
+           FolderRenamer folderRenamer = new FolderRenamer(treeView.SelectedNode);
+           folderRenamer.ShowDialog();
+           TreeNode parentNode = treeView.SelectedNode.Parent;
+           ExpandDirectoryNodes((DirectoryInfo)treeView.SelectedNode.Parent.Tag, parentNode);
 
-            }
+            
         }
     }
 }

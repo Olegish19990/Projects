@@ -16,6 +16,8 @@ namespace FileManager
             try
             {
                 dir.GetDirectories();
+                var information = dir.GetAccessControl();
+                Console.WriteLine("Get information");
             }
             catch
             {

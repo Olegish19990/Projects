@@ -20,10 +20,19 @@ namespace FileManager.ItemRenamer
 
 
             string stringPattern = PatternBuild();
-
-            Renamer renamer = new Renamer(new FSObjectContainer() { Files = files });
-            renamer.RenameFiles(stringPattern);
-            this.Close();
+            try
+            {
+                Renamer renamer = new Renamer(new FSObjectContainer() { Files = files });
+                renamer.RenameFiles(stringPattern);
+            }
+            catch
+            {
+                MessageBox.Show("Rename operation error");
+            }
+            finally
+            {
+                this.Close();
+            }
         }
 
         private string PatternBuild()

@@ -57,31 +57,3 @@ namespace FileManager
 
 
 
-/*private void Delete_click(RemoverMode mode)
-{
-
-    var files = fileDisplayer.GetSelectedItems();
-    string message = "Do you want to delete the selected items?";
-    if (DirectoryIsAcces.CheckAccess(CurrentDirectory.CurrentDir))
-    {
-        var result = MessageBox.Show(message, "Confirm Delete", MessageBoxButtons.YesNo);
-        if (result == DialogResult.Yes)
-        {
-            var report = deleteItem.Delete(mode, files);
-            if (mode == RemoverMode.Files)
-            {
-                fileDisplayer.DisplayFiles(CurrentDirectory.CurrentDir.GetFiles());
-
-
-            }
-            else
-            {
-                treeView1.SelectedNode.Remove();
-            }
-        }
-    }
-    else
-    {
-        MessageBox.Show("Access denied");
-    }
-}*/

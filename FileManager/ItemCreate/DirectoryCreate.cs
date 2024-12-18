@@ -30,10 +30,25 @@ namespace FileManager.ItemCreate
         private void DirectoryCreateLogic(TreeNode node)
         {
            
-            string dirName = textBox1.Text;
-            DirectoryInfo directory = new DirectoryInfo(Path.Combine(CurrentDirectory.CurrentDir.FullName, dirName));
-            directory.Create();
-            node.Nodes.Add(NodeCreator.CreateNode(directory));
+            string newDirPath = Path.Combine(CurrentDirectory.CurrentDir.FullName, textBox1.Text);
+            if (new DirectoryInfo(newDirPath).Exists)
+            {
+                MessageBox.Show("A folder with that name already exists.");
+            }
+            else
+            {
+                try
+                {
+                    DirectoryInfo directory = new DirectoryInfo(newDirPath);
+                    directory.Create();
+                    node.Nodes.Add(NodeCreator.CreateNode(directory));
+                }
+                catch
+                {
+                    MessageBox.Show("Folder creation error");
+                }
+
+            }
             this.Close();
         }
 
