@@ -24,8 +24,7 @@ The File Manager project allows users to navigate, organize, and manage their fi
 ---
 ## ⚙️ Technologies Used  
 
-- **Language:** C#  
-- **Framework:** .NET Framework / .NET Core  
+- **Language:** C#   
 - **UI Framework:** WinForms  
 
 ---
